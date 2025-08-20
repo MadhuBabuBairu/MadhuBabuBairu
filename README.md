@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MadhuBabuBairu
-- 👀 I’m interested in Problem Solving , DS & Algo
+- 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning DSA
+- Full Stack Development
+- AI tools
 
 <!---
 MadhuBabuBairu/MadhuBabuBairu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
