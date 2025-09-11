@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadhuBabuBairu
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning
 - Full Stack Development
 - AI tools
 
