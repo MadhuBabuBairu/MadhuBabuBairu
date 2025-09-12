@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadhuBabuBairu
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning
+- 🌱 I’m currently exporing various career paths
 - Full Stack Development
-- AI tools
+- AI Engineering
 
 <!---
 MadhuBabuBairu/MadhuBabuBairu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
